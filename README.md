@@ -1,6 +1,6 @@
 # 📝 Adobe PDF Outline Extractor
 
-This project extracts structured outlines (headings) and the title from PDF documents using logical heuristics based on font size, font style, and layout structure — **no machine learning used**.
+This project extracts structured outlines (headings) and the title from PDF documents using logical heuristics based on font size, font style, and layout structure.
 
 ---
 
@@ -41,10 +41,6 @@ This project extracts structured outlines (headings) and the title from PDF docu
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-
----
-
-## 🚀 Getting Started
 
 3. Requirements
 
