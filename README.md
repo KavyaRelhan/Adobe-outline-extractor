@@ -19,15 +19,7 @@ This project extracts structured outlines (headings) and the title from PDF docu
 
 ## 📂 Folder Structure
 
-.
-├── input/                # PDF files to process
-├── output/               # JSON outputs
-└── src/
-    ├── extract_outline.py    # Main runner script
-    ├── pdf_utils.py          # Extracts raw spans from PDF using PyMuPDF
-    ├── heading_detector.py   # Title and heading detection logic
-    └── json_writer.py        # Writes structured output to JSON
-
+<pre lang="markdown"> ``` . ├── input/ # PDF files to process ├── output/ # JSON outputs └── src/ ├── extract_outline.py # Main runner script ├── pdf_utils.py # Extracts raw spans from PDF using PyMuPDF ├── heading_detector.py # Title and heading detection logic └── json_writer.py # Writes structured output to JSON ``` </pre>
 
 ---
 
