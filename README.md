@@ -41,5 +41,19 @@ This project extracts structured outlines (headings) and the title from PDF docu
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install dependencies:
-4. 
+
+---
+
+## 🚀 Getting Started
+
+3. Requirements
+
+- Python 3.10+
+- pip
+- [PyMuPDF](https://pymupdf.readthedocs.io/) (`pip install pymupdf`)
+
+4. Install Dependencies
+
+```bash
+pip install pymupdf
+
